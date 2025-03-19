@@ -21,6 +21,8 @@ import random
 import matplotlib.pyplot as plt
 import numpy as np
 import string
+import os
+from dotenv import load_dotenv
 
 
 app = Flask(__name__)
@@ -29,8 +31,11 @@ app = Flask(__name__)
 with open('qua.json', 'r') as f:  # Ensure the JSON file is named correctly and in the same directory
     qa_data = json.load(f)
 
+# Retrieve API key from environment variables
+api_key = os.getenv("GENAI_API_KEY")
+
 # Configure the Generative AI model with your API key
-genai.configure(api_key="AIzaSyAlPMwEtaYeEwoSwpBKmm4RaD4SB4NagU0")  # Replace with your actual API key
+genai.configure(api_key=api_key)  # Replace with your actual API key
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Initialize the chat session (single session to maintain context)
