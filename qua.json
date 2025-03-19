@@ -1,0 +1,347 @@
+{
+    "1": {
+        "question": "Am I speaking to Vidya",
+        "answer": "Yes, Vidya speaking."
+    },
+    "2": {
+        "question": "I am {name}",
+        "answer": "Please tell me."
+    },
+    "3": {
+        "question": "I m {name}",
+        "answer": "Please tell me."
+    },
+    "4": {
+        "question": "Im {name}",
+        "answer": "Please tell me."
+    },
+    "5": {
+        "question": "Hi",
+        "answer": "Hi, who is this?"
+    },
+    "6": {
+        "question": "Hello",
+        "answer": "Hello, who is this?"
+    },
+    "7": {
+        "question": "Hey",
+        "answer": "Hey, who is this?"
+    },
+    "8": {
+        "question": "Good morning",
+        "answer": "Good morning, who is this?"
+    },
+    "9": {
+        "question": "Good afternoon",
+        "answer": "Good afternoon, who is this?"
+    },
+    "10": {
+        "question": "Good evening",
+        "answer": "Good evening, who is this?"
+    },
+    "11": {
+        "question": "Hi there",
+        "answer": "Hi , who is this?"
+    },
+    "12": {
+        "question": "Hey there",
+        "answer": "hey, who is this?"
+    },
+    "13": {
+        "question": "I am {name} from {company} Bank",
+        "answer": "Yes, please tell me."
+    },
+    "14": {
+        "question": "I m {name} from {company} Bank",
+        "answer": "Ok, please tell me."
+    },
+    "15": {
+        "question": "Im {name} from {company} Bank",
+        "answer": "Ok, tell me."
+    },
+    "16": {
+        "question": "I am {name} calling from {company} Bank",
+        "answer": "Yes, tell me."
+    },
+    "17": {
+        "question": "I m {name} calling from {company} Bank",
+        "answer": "Yes, please tell me."
+    },
+    "18": {
+        "question": "Im {name} calling from {company} Bank",
+        "answer": "Ok, please tell me."
+    },
+    
+    "19": {
+        "question": "Myself {name}",
+        "answer": "Please tell me."
+    },
+    "20": {
+        "question": "Myself {name} from {company} Bank",
+        "answer": "Yeah, please tell me."
+    },
+    "21": {
+        "question": "Myself {name} calling from {company} Bank",
+        "answer": "Yeah, please tell me."
+    },
+    "22": {
+        "question": "Is this a good time to talk",
+        "answer": "Yes, sure, go ahead."
+    },
+    "23": {
+        "question": "Do you have a few minutes",
+        "answer": "Yes, please tell me."
+    },
+    "24": {
+        "question": "I am {name} calling from {company} Bank do you have any interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "25": {
+        "question": "I m {name} calling from {company} Bank do you have any interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "26": {
+        "question": "Im {name} calling from {company} Bank do you have any interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "27": {
+        "question": "Myself {name} calling from {company} Bank do you have any interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "28": {
+        "question": "I am {name} calling from {company} Bank do you have interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "29": {
+        "question": "I m {name} calling from {company} Bank do you have interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "30": {
+        "question": "Im {name} calling from {company} Bank do you have interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "31": {
+        "question": "Myself {name} calling from {company} Bank do you have interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "32": {
+        "question": "I am {name} calling from {company} Bank do you have any interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "33": {
+        "question": "I m {name} calling from {company} Bank do you have any interest to take personal  loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "34": {
+        "question": "Im {name} calling from {company} Bank do you have any interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "35": {
+        "question": "Myself {name} calling from {company} Bank do you have any interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "36": {
+        "question": "I am {name} calling from {company} Bank do you have interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "37": {
+        "question": "I m {name} calling from {company} Bank do you have interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "38": {
+        "question": "Im {name} calling from {company} Bank do you have interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "39": {
+        "question": "Myself {name} calling from {company} Bank do you have interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "40": {
+        "question": "I am {name} from {company} Bank do you have any interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "41": {
+        "question": "I m {name} from {company} Bank do you have any interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "42": {
+        "question": "Im {name} from {company} Bank do you have any interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "43": {
+        "question": "Myself {name} from {company} Bank do you have any interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "44": {
+        "question": "I am {name} from {company} Bank do you have interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "45": {
+        "question": "I m {name} from {company} Bank do you have interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "46": {
+        "question": "Im {name} from {company} Bank do you have interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "47": {
+        "question": "Myself {name} from {company} Bank do you have interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "48": {
+        "question": "I am {name} from {company} Bank do you have any interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "49": {
+        "question": "I m {name} from {company} Bank do you have any interest to take personal  loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "50": {
+        "question": "Im {name} from {company} Bank do you have any interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "51": {
+        "question": "Myself {name} from {company} Bank do you have any interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "52": {
+        "question": "I am {name} from {company} Bank do you have interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "53": {
+        "question": "I m {name} from {company} Bank do you have interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "54": {
+        "question": "Im {name} from {company} Bank do you have interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "55": {
+        "question": "Myself {name} from {company} Bank do you have interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "56": {
+        "question": "this is john calling from ICICI bank",
+        "answer": "Yeah, please tell me."
+    },
+    "57": {
+        "question": "do you have interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "58": {
+        "question": "do you have any interest to take personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "59": {
+        "question": "do you have interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "60": {
+        "question": "do you have any interest to take loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "61": {
+        "question": "Hi Vidya",
+        "answer": "Hi, who is this?"
+    },
+    "62": {
+        "question": "Hello Vidya",
+        "answer": "Hello, who is this?"
+    },
+    "63": {
+        "question": "Hey Vidya",
+        "answer": "Hey, who is this?"
+    },
+    "64": {
+        "question": "Good morning Vidya",
+        "answer": "Good morning, who is this?"
+    },
+    "65": {
+        "question": "Good afternoon Vidya",
+        "answer": "Good afternoon, who is this?"
+    },
+    "66": {
+        "question": "Good evening Vidya",
+        "answer": "Good evening, who is this?"
+    },
+    "67": {
+        "question": "this is {name} calling from {company} bank",
+        "answer": "Yes, please tell me."
+    },
+    "68": {
+        "question": "this is {name}",
+        "answer": "Yes, please tell me."
+    },
+    "69": {
+        "question": "this is {name} from {company} bank",
+        "answer": "Yes, please tell me."
+    },
+    "70": {
+        "question": "do you have any interest in taking loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "71": {
+        "question": "do you have any interest in taking personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "72": {
+        "question": "do you want to take any loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "73": {
+        "question": "do you want to take any personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "74": {
+        "question": "Are you intrested to take any personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "75": {
+        "question": "Are you intrested to take any loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "76": {
+        "question": "Are you interested in taking loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "77": {
+        "question": "Are you interested in taking personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "78": {
+        "question": "Im {name} from {company} Bank do you have any interest in taking loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "79": {
+        "question": "Im {name} from {company} Bank do you have any interest in taking personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "80": {
+        "question": "Im {name} from {company} Bank do you want to take any loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "81": {
+        "question": "Im {name} from {company} Bank do you want to take any personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "82": {
+        "question": "Im {name} from {company} Bank Are you intrested to take any personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "83": {
+        "question": "Im {name} from {company} Bank Are you intrested to take any loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "84": {
+        "question": "Im {name} from {company} Bank Are you interested in taking loan",
+        "answer": "Ok! Can you tell me more about this?"
+    },
+    "85": {
+        "question": "Im {name} from {company} Bank Are you interested in taking personal loan",
+        "answer": "Ok! Can you tell me more about this?"
+    }
+
+    
+
+   
+}
