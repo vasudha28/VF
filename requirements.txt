@@ -31,7 +31,7 @@ importlib_metadata==8.5.0
 importlib_resources==6.4.5
 inflect==7.4.0
 itsdangerous==2.2.0
-Jinja2==3.1.4
+Jinja2==3.1.6
 joblib==1.4.2
 kiwisolver==1.4.7
 lazy_loader==0.4
